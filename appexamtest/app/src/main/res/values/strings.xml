@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Simulado Kotlin</string>
+    <string name="msgCalcular">Calcular</string>
+    <string name="msgLimpar">Limpar</string>
+    <string name="msgResultado">Resultado aparece aqui</string>
+    <string name="msgOperando1">Operando 1:</string>
+    <string name="msgOperando2">Operando 2:</string>
+    <string name="msgAluno">Rafael Rodrigues Macedo</string>
+    <string name="msgTitulo">Calculadora de Substração</string>
+</resources>
